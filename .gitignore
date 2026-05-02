@@ -9,9 +9,6 @@ __pycache__/
 venv/
 env/
 
-# Results (generated outputs)
-results/
-
 # Data (reproducible via make_datasets.py)
 data/
 housing.csv
