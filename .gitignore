@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Results (generated outputs)
+results/
+
+# Data (reproducible via make_datasets.py)
+data/
+housing.csv
+
+# IDE
+.vscode/
+.idea/
